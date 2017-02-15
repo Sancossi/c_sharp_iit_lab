@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab1", "lab1\lab1.csproj", "{5727D2EA-E4E5-437B-BE6D-68C57788E710}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab1_2_bogoradow", "lab1_2_bogoradow\lab1_2_bogoradow.csproj", "{3A8C7D82-E38E-49FE-8445-1353EA2C8CDE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab1_3_bogoradow", "lab1_3_bogoradow\lab1_3_bogoradow.csproj", "{90E93809-DEFA-43E0-A065-7764E9726A0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5727D2EA-E4E5-437B-BE6D-68C57788E710}.Debug|x86.ActiveCfg = Debug|x86
+		{5727D2EA-E4E5-437B-BE6D-68C57788E710}.Debug|x86.Build.0 = Debug|x86
+		{5727D2EA-E4E5-437B-BE6D-68C57788E710}.Release|x86.ActiveCfg = Release|x86
+		{5727D2EA-E4E5-437B-BE6D-68C57788E710}.Release|x86.Build.0 = Release|x86
+		{3A8C7D82-E38E-49FE-8445-1353EA2C8CDE}.Debug|x86.ActiveCfg = Debug|x86
+		{3A8C7D82-E38E-49FE-8445-1353EA2C8CDE}.Debug|x86.Build.0 = Debug|x86
+		{3A8C7D82-E38E-49FE-8445-1353EA2C8CDE}.Release|x86.ActiveCfg = Release|x86
+		{3A8C7D82-E38E-49FE-8445-1353EA2C8CDE}.Release|x86.Build.0 = Release|x86
+		{90E93809-DEFA-43E0-A065-7764E9726A0D}.Debug|x86.ActiveCfg = Debug|x86
+		{90E93809-DEFA-43E0-A065-7764E9726A0D}.Debug|x86.Build.0 = Debug|x86
+		{90E93809-DEFA-43E0-A065-7764E9726A0D}.Release|x86.ActiveCfg = Release|x86
+		{90E93809-DEFA-43E0-A065-7764E9726A0D}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
