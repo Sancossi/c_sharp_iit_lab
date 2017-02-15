@@ -88,33 +88,33 @@ namespace lab_4_2
 
 
             }
-            catch (UnauthorizedAccessException)
+            catch (UnauthorizedAccessException ex)
             {
-
+                Console.WriteLine(ex);
             }
-            catch (ArgumentNullException)
+            catch (ArgumentNullException ex)
             {
-
+                Console.WriteLine(ex);
             }
-            catch (ArgumentException)
+            catch (ArgumentException ex)
             {
-
+                Console.WriteLine(ex);
             }
-            catch (PathTooLongException)
+            catch (PathTooLongException ex)
             {
-
+                Console.WriteLine(ex);
             }
-            catch (FormatException)
+            catch (FormatException ex)
             {
-
+                Console.WriteLine(ex);
             }
-            catch (IOException)
+            catch (IOException ex)
             {
-
+                Console.WriteLine(ex);
             }
-            catch (NotSupportedException)
+            catch (NotSupportedException ex)
             {
-
+                Console.WriteLine(ex);
             }
 
         }
