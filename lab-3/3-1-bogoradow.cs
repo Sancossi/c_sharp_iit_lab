@@ -24,6 +24,8 @@ namespace lab3_bogoradow
 
         /// <summary>
         /// Конструктор класса 
+        /// Какие то изменения
+        
         /// </summary>
         /// <param name="surname"></param>
         /// <param name="birthday"></param>
